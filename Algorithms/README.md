@@ -1,4 +1,4 @@
 #Algorithms
 
-* https://www.coursera.org/learn/algorithms-part1/home/welcome
-* https://algs4.cs.princeton.edu/home/
+* Syllabus https://www.coursera.org/learn/algorithms-part1/resources/CrmR4
+* Booksite https://algs4.cs.princeton.edu/home/
